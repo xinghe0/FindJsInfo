@@ -20,7 +20,7 @@
 
 ![image-20230419172019702](https://xingheimg.oss-cn-guangzhou.aliyuncs.com/img/202304191720850.png)
 
-![image-20230419172050829](../../Library/Application Support/typora-user-images/image-20230419172050829.png)
+![image-20230419172248095](https://xingheimg.oss-cn-guangzhou.aliyuncs.com/img/202304191722140.png)
 
 ![image-20230419172158250](https://xingheimg.oss-cn-guangzhou.aliyuncs.com/img/202304191721292.png)
 
