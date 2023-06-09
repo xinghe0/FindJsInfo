@@ -1,0 +1,577 @@
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/promotion/addWidgetInfo --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/transform/tel --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/brand/updateStatus --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/panel/videoList --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/panel/history --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/promotion/editRecommendInfo --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/auth/todoNum --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/promotion/addMainInfo --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/panel/memberInfo --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/brand/add --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/ad/status --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/auth/info --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/transform/enable --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/ad/add --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/auth/detailInfo --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/transform/link --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/promotion/addRecommendInfo --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/file/upload --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/promotion/goodsList --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/transform/download --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/promotion/enable --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/status --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/promotion/editMainInfo --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/promotion/detail --- 62   {"error":1000,"msg":"营销类型不能为空","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/brand/list --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/promotion/editWidgetInfo --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/panel/liveList --- 56   {"error":300,"msg":"请登录","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/brand/move --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://cm.douyu.com:80//japi/bizmisc/enterprise/brand/edit --- 87   {"error":405,"msg":"Request method 'GET' not supported","data":null,"redirectUrl":null}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//he --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//nl-be --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//vi --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ar-ma --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//yo --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ar-kw --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//fr-ca --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//eu --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//et --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//tet --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//MM/DD/YYYY --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//sv --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//en-SG --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ms --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ko --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//cv --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//fr --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//kn --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//bm --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ca --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//fy --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//cs --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ta --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//bg --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//hr --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//hi --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//es --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//dv --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ar-tn --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//en-au --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//DD/M/YYYY --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//es-do --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//eo --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ml --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//az --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ar-dz --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//mn --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//km --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//supplier/userInfo --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//de-at --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//sl --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//af --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//nl --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ga --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//hy-am --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//zh-cn --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//th --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//tr --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//de-ch --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//tl-ph --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//pt-br --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//bs --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//fo --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//bn --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//hu --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//zh-hk --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//mt --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//it-ch --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//gl --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//en-nz --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ky --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//D/M/YYYY --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//uz --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//web/baseInfo/getContact --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//tzm --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//nb --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//da --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//lt --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ur --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//YYYY/MM/DD --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//is --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//sw --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//text/html --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//tzl --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//el --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//application/json --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//lb --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//en-ie --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//uk --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//en-ca --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//pt --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//id --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ja --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//fa --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//tzm-latn --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//pl --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//mr --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//image/ --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//Chrome/66 --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//br --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//web/baseInfo/getBanner --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ms-my --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//it --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//x-pseudo --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//sq --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//bo --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//zh-tw --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//jv --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//YYYY/M/D --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//fi --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//se --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//tlh --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ar --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//me --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ka --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//my --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ar-sa --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//sr --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//nn --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//web/baseInfo/getNotice --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//en-il --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//sk --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ann/list --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ru --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//DD/MM/YYYY --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//en-gb --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//pa-in --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ug-cn --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//lo --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//gd --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//es-us --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ne --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//de --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//be --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//te --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//mk --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ss --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ku --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//si --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//kk --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//tg --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//fr-ch --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//mi --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ro --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//uz-latn --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//gom-latn --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//ar-ly --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//lv --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//sr-cyrl --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//sd --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//cy --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://zhaobiao.douyu.com:80//gu --- 52   {"code":50015,"msg":"refer校验失败","data":"refer校验失败！"}
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/whiteroom/del_whiterid --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/usermanage/add_user --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/publisher/get_pubs --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/roomcdn/get_roomcdns --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/machine/offline --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/key_flow/get_records --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/publisher/get_pub_machine_room_list --- 41   {"xiangyang":0,"taizhou":1,"langfang":2}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/room_cate/get_latest_records --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/channel/set_chn --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/usermanage/get_users --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/publisher/del_pubs --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/super/get_sups --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/query_huawei_band_usage --- 31   {"msg":"param error","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/query_charts_data_by_keys --- 142   {"max":null,"min":null,"timestamp":[],"msg":"parse input msg failed.","value":null,"err":8,"field_sum":null,"cur":null,"avg":null,"sum":null}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/get_super_peer_substmids --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/p2pfile/del_video_rs_info --- 55   {"msg":{"err":-4,"msg":"input param error."},"err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/get_super_peer_overview --- 45   {"msg":"not exist","spoverview":[],"err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/superpeer/set_sp --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/channel/del_chn --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/tracker/set_trk --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/p2pfileserver/del_p2pfs --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/province/set_prv --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/channel/stop_chn_authority --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/region_config/set_config --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/static_conf/del_monitor_graph_def --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/publisher/set_pub --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/p2pfileserver/get_p2pfs --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/query_publisher_caton_data --- 43   {"code":0,"info":"make query sql failed."}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/superpeer/get_sps --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/whiteroom/get_whiterids --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/channel/stop_chn_all_authority --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/publisher/get_latest_pubs --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/channel/distribute_channel_info_authority --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/machine/online_isp --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/super/get_sup_id_list --- 63   {"total_curbps_isp":[],"msg":"ok","data":[],"total":0,"err":0}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/tracker/get_trks --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/query_monthly_avg_of_daily_bandwidth_peak --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/get_super_peer_chanids --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/spmanager/set_spm --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/p2pfileserver/set_p2pf --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/query_video_file_data --- 43   {"code":0,"info":"make query sql failed."}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/publisher/get_pub_id_list --- 93   {"total_curbps_isp":[],"msg":"ok","data":[{"sid":774005,"sourceindex":0}],"total":1,"err":0}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/usermanage/set_user --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/room --- 146   {"room_id":0,"result":207,"msg":"bad parameters","curr_online":{"time":0,"online_cnt":0,"online_by_ct":[],"online_by_lvl":[]},"day_top_online":[]}
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/superpeer/del_sps --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/whiteroom/set_whiterid --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/tracker/del_trks --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/static_conf/set_static_conf --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/log_record/get_records --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/room/del_viprid --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/channel/get_started_rids --- 8776   {"msg":"ok","data":[97,100,101,110,207,863,999,2125,3928,4332,5423,6310,6752,7892,8242,9418,9792,9999,11017,12306,14163,14299,15443,16101,16864,17732,19223,20255,20360,20415,21267,26023,30191,35954,36140,36337,37807,40471,45662,46634,47378,48261,48699,48748,50377,52319,52787,52876,54752,56040,58712,60062,60651,62081,63136,63488,65137,65547,65848,66748,67554,68172,68318,68652,69247,70154,70249,71771,71825,72724,73203,74374,74751,74960,79149,80432,80887,83816,85894,93589,93936,96577,98406,100036,101185,101367,102493,108610,122024,122028,129901,131977,135213,138243,138959,148986,152742,157905,164657,168000,180304,199594,206858,209737,216255,216555,216939,217331,218859,220149,221869,226037,227229,229314,229743,231098,233265,236461,241123,242045,244548,248753,249813,252171,252802,253516,255287,255329,255865,258718,259057,259676,260322,260391,261950,263824,267866,276200,276694,285047,286993,288016,289757,290935,293018,295415,297535,297689,299854,301049,308752,309162,309763,309923,314761,315457,319435,319576,323075,323714,323876,329667,338281,338759,339610,413573,414194,417570,424678,424998,425644,426517,428250,431460,434213,434971,436596,442280,443454,444360,447646,454867,457523,470321,474669,475252,478725,479079,481490,483729,488743,495296,501761,507882,510058,510437,511741,514974,522423,524757,528353,528583,529183,532152,533640,535321,535534,537916,541829,546253,546621,547162,548061,548970,557378,572288,582442,584756,591080,592541,593061,594019,598714,600290,600389,601514,601979,605964,606118,610588,610972,611814,639471,642305,652847,666743,670523,676373,686662,687423,689342,693708,702151,705690,709710,717613,718133,731515,732698,746256,747764,748396,753676,757122,765542,770986,774234,780824,787579,787747,791411,792553,801429,804675,805235,823042,838632,844947,851040,862480,867041,885443,888388,890074,891464,916749,920389,921393,922564,927327,945159,947584,953193,953268,957090,979179,979990,997925,1009279,1017358,1024993,1029928,1041691,1043498,1052202,1052924,1057853,1065462,1109218,1120847,1121443,1125983,1126960,1139347,1143121,1165924,1190274,1197627,1218414,1226741,1227260,1235844,1237105,1256569,1282190,1300804,1302843,1330448,1334765,1339207,1340947,1369449,1377142,1385952,1409682,1411649,1417268,1431365,1443964,1487654,1523343,1555845,1573942,1589636,1666390,1675620,1679347,1722685,1735337,1746707,1746967,1747046,1783144,1804918,1814636,1819564,1863767,1870001,1871158,1875422,1886240,1908381,1910041,1914456,1931566,1975584,2020339,2040822,2057760,2106575,2124772,2132902,2139747,2140364,2151906,2158487,2164691,2172675,2177770,2205764,2250349,2267291,2306104,2311698,2314338,2337939,2339083,2347464,2347569,2361531,2364775,2398000,2421040,2436390,2456621,2461752,2469404,2471110,2516864,2521321,2556084,2561707,2576654,2578621,2602229,2632223,2665357,2678035,2689138,2758565,2793084,2838296,2856300,2876942,2901080,2935323,2947432,3020472,3125893,3136163,3168536,3186217,3190510,3202712,3226194,3320243,3337730,3357246,3391513,3395113,3426161,3439096,3474208,3485629,3508304,3508932,3561196,3572778,3577505,3592330,3605965,3639122,3652542,3655320,3682152,3700024,3705472,3710773,3716992,3736407,3758762,3794905,3797946,3851631,3851637,3853457,3857053,3859824,3870925,3888190,3903192,3929787,3949681,3984748,3990738,3992081,4000058,4004697,4024557,4026359,4039310,4039714,4066273,4079588,4085835,4105989,4225051,4229991,4258555,4290711,4291405,4333872,4343009,4346416,4369877,4373285,4385581,4392821,4403187,4435908,4443375,4446241,4452132,4453633,4457056,4477159,4487219,4489985,4505431,4511782,4514420,4533200,4533511,4534109,4549169,4615959,4686040,4690350,4722447,4747465,4759290,4800835,4811710,4872710,4907390,4914493,4933183,4941977,5008720,5012053,5022725,5025477,5033502,5040227,5043248,5045952,5055242,5059954,5062186,5062195,5068724,5070576,5074415,5077729,5083790,5094760,5103806,5140547,5166465,5168755,5169209,5176269,5190741,5220173,5225084,5227676,5229219,5244018,5261342,5264153,5275756,5283485,5303276,5315665,5319194,5319535,5324388,5326761,5337201,5340548,5344241,5370994,5373486,5377297,5377721,5395900,5421846,5429211,5448413,5472438,5522351,5526219,5532877,5533584,5544313,5551065,5609091,5628728,5669195,5687671,5692787,5712762,5717210,5720533,5741240,5758642,5778205,5798903,5820055,5825100,5842713,5860651,5870088,5894085,5908256,5913395,5943281,5990403,5994282,5997076,5997452,6006875,6011317,6027991,6052703,6079455,6091425,6113303,6135669,6140589,6146690,6151888,6160078,6194382,6211572,6218591,6241733,6266000,6282878,6291080,6294863,6295904,6323712,6338579,6349497,6372996,6386914,6387028,6393261,6403311,6415143,6462960,6480619,6484910,6488050,6492649,6502431,6506454,6525105,6532591,6538021,6541889,6546908,6553639,6554039,6556593,6558897,6559756,6560603,6561377,6562391,6563760,6566346,6566658,6566671,6567483,6581531,6582435,6584927,6588999,6591422,6599008,6610883,6648727,6704179,6706214,6718130,6724991,6733133,6733889,6742930,6749231,6775193,6778282,6785471,6791380,6795737,6828159,6829849,6852825,6860983,6862649,6863367,6867600,6868476,6872229,6908420,6911044,6925114,6945936,6974685,6979222,6985688,7022274,7042605,7064497,7084089,7084829,7107176,7124784,7134757,7180846,7204649,7237559,7245236,7253343,7254536,7256376,7264784,7269183,7300037,7305938,7308861,7316146,7421029,7443498,7450946,7459925,7473576,7476264,7489563,7504286,7528160,7537296,7549568,7550220,7552568,7570122,7575350,7575435,7597962,7622179,7630506,7632381,7642724,7644931,7655471,7661800,7694889,7701735,7710821,7720280,7730658,7740681,7754456,7772041,7796193,7812407,7832113,7838423,7868170,7879024,7888428,7889732,7891162,7908115,7918091,7923669,7925840,7935256,7940025,7954449,7968108,7971641,7973394,7996620,8010521,8031896,8067328,8122827,8129030,8139694,8143715,8144937,8148111,8157860,8188531,8194977,8253991,8317926,8323493,8380467,8434598,8440385,8451349,8458270,8590795,8600645,8627212,8644678,8656759,8662721,8669004,8690653,8702345,8744379,8751050,8758901,8759139,8765349,8770422,8804833,8814650,8856052,8869614,8874264,8877951,8892381,8900883,8902771,8906198,8915396,8927238,8934942,8945323,8946770,8953746,8955172,8955262,8958731,8968609,8976532,8985415,8986636,8993615,9006227,9018297,9019945,9038894,9063322,9067836,9071554,9075333,9087854,9116745,9122891,9126168,9148817,9163712,9187806,9188675,9192531,9206111,9207931,9220456,9236559,9258261,9314167,9317327,9317739,9319257,9343195,9347693,9372623,9388639,9408500,9433860,9446706,9450562,9461178,9470198,9481366,9483542,9487003,9498248,9505558,9505575,9559158,9580152,9583469,9586235,9587937,9606488,9616229,9633542,9635701,9638983,9639225,9647854,9649681,9650131,9650792,9650836,9650860,9650887,9659956,9662891,9664247,9664505,9686667,9687733,9699090,9718359,9719260,9734042,9734098,9735296,9738854,9761434,9766313,9804176,9814019,9817716,9817729,9818566,9826611,9830359,9837291,9847588,9848808,9849779,9865329,9952362,9961697,9965018,9972255,9986305,10001280,10010651,10011547,10016856,10019937,10028785,10044682,10047735,10060909,10061156,10069391,10071735,10075970,10084875,10094274,10096393,10103027,10120371,10140316,10143950,10153463,10172463,10173216,10173948,10191153,10192326,10197652,10206781,10208912,10214664,10226687,10229065,10233183,10241086,10252465,10254691,10267639,10331979,10338873,10348728,10353419,10354825,10402436,10407517,10434098,10437491,10458811,10474951,10524679,10544334,10591217,10599082,10608568,10623757,10633543,10633662,10650322,10661020,10664891,10675602,10688198,10708600,10710592,10716828,10722927,10751171,10751680,10779759,10795405,10796427,10818103,10871512,10898522,10924093,10925867,10926808,10934869,10934973,10947642,10951040,10963455,10970886,11045768,11046968,11059575,11068162,11069898,11072988,11073934,11073941,11074022,11163132,11172527,11185587,11196012,11243879,11247639,11251066,11251710,11252830,11256870,11265107,11275615,11279861,11359946,11362779,11366890,11391949,11404041,11408326,11412091,11415114,11432948,11457369,11472207,11483768,11485177,11490574,11500796,11503143,11508014,11508191,11519097,11526893,11536909,11537438,11540756,11541895,11543347,11544610,11544830,11553944,11556227,11559275,11578014,11578540,11578904,11588327,11593512,11594652,11597954,11606410,11609457,11618658,11624323,533334,3321215,5992130,6503272,7884070,8581815,11085469,11637530,10707097,33,233041,279256,295258,439947,524389,529802,535049,868191,1232254,1676777,2045445,2082749,3471474,4475021,4503260,5878647,6459937,6517467,7019523,8484865,8797913,8825216,10607332,6906,85963,99367,128314,183662,224424,280087,293829,306935,510541,510999,668668,691696,699689,834093,952595,1222615,1486165,1505939,1888622,1997723,2207607,2805008,3219235,3305122,3830820,4314775,4496540,4507627,5029350,5095833,5110403,5229614,5324559,5704037,6229395,6672862,8055581,9236042,1818791,4479957,533756],"total":1127,"err":0}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/usermanage/logout --- 21   {"msg":"ok","err":0}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/room/get_viprids --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/query_rtc_monitor_data --- 43   {"code":0,"info":"make query sql failed."}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/spmanager/del_spms --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/super/del_sups --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/query_95_bandwidth_peak_value --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/super/set_sup --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/query_tencent_band_usage --- 31   {"msg":"param error","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/whiteroom/set_whiterids_batch --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/usermanage/del_user --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/get_super_peer_ids --- 40   {"msg":"not exist","spids":[],"err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/machine/online --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/get_super_peer_channel_ids --- 42   {"spchids":[],"msg":"not exist","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/region_config/get_configs --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/get_overview_monitor --- 201   {"msg":"success","data":{"iosshare":"0.527626","pcshare":"0.654162","androidshare":"0.553672","webshare":"0.759766","share":"0.715680","downloadcdn":"4679808280","downloadpeer":"11779843423"},"err":0}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/p2pfile/add_video_rs_info --- 55   {"msg":{"err":-4,"msg":"input param error."},"err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/room/set_viprid --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/machine/offline_isp --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/tracker/get_trk_id_list --- 1556   {"total_curbps":701,"total_onlinecnt":159608,"total_curbps_isp":[{"isp":"电信","sum(curbps)":394},{"isp":"移动","sum(curbps)":201},{"isp":"联通","sum(curbps)":106}],"msg":"ok","data":[{"sid":775003},{"sid":775004},{"sid":775022},{"sid":775023},{"sid":775035},{"sid":775036},{"sid":775037},{"sid":775038},{"sid":775041},{"sid":775042},{"sid":775048},{"sid":775052},{"sid":775057},{"sid":775060},{"sid":775061},{"sid":775065},{"sid":775066},{"sid":775067},{"sid":775068},{"sid":775071},{"sid":775072},{"sid":775076},{"sid":775077},{"sid":775078},{"sid":775079},{"sid":775080},{"sid":775081},{"sid":775082},{"sid":775083},{"sid":775084},{"sid":775085},{"sid":775086},{"sid":775087},{"sid":775090},{"sid":775091},{"sid":775092},{"sid":775093},{"sid":775094},{"sid":775095},{"sid":775096},{"sid":775097},{"sid":775098},{"sid":775099},{"sid":775100},{"sid":775101},{"sid":775102},{"sid":775103},{"sid":775104},{"sid":775105},{"sid":775106},{"sid":775107},{"sid":775108},{"sid":775109},{"sid":775110},{"sid":775111},{"sid":775112},{"sid":775113},{"sid":775114},{"sid":775115},{"sid":775116},{"sid":775117},{"sid":775118},{"sid":775131},{"sid":775132},{"sid":775154},{"sid":775155},{"sid":775156},{"sid":775157},{"sid":775158},{"sid":775159},{"sid":775160},{"sid":775161},{"sid":775162},{"sid":775163},{"sid":775164},{"sid":775165},{"sid":775166},{"sid":775167},{"sid":775168},{"sid":775169},{"sid":775170},{"sid":775171},{"sid":775172},{"sid":775602},{"sid":775608},{"sid":775609},{"sid":775610}],"total":87,"err":0,"total_dyxp2p_onlinecnt":136697,"total_chncnt":7532}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/get_xp2p_overview_monitor --- 237   {"msg":"success","data":{"xp2p_share":"0.732475","xp2p_downloadpeer":"74507799229","xp2p_webshare":"0.757318","xp2p_downloadcdn":"27212742419","xp2p_iosshare":"0.668458","xp2p_pcshare":"0.768546","xp2p_androidshare":"0.655574"},"err":0}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/query_tracker_monitor_result_data --- 43   {"err":1002,"msg":"sub cmd not supported."}
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/static_conf/set_monitor_graph_def --- 27   {"msg":"token失效","err":-1}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/machine/reload_openresty --- 19   {"msg":"","err":0}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/pc_client_log_report/get_records --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/spmanager/get_spms --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/monitor/query_analysis_result_data --- 142   {"max":null,"min":null,"timestamp":[],"msg":"parse input msg failed.","value":null,"err":8,"field_sum":null,"cur":null,"avg":null,"sum":null}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/machine/get_machines --- 38   {"msg":"input param error.","err":-4}
+
+--------------------------------------------------------------------------------
+http://backend.douyucdn.cn:80//p2pconfigcenter/p2pfile/get_video_rs_infos --- 38   {"msg":"input param error.","err":-4}
+

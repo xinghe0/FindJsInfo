@@ -64,7 +64,7 @@ class MyClass:
             try:
                 file_thread(output)
             except Exception as err:
-                print(f"[+] 文件未找到")
+                print(f"[+] 文件未找到{err}")
                 pass
 
 def main():
